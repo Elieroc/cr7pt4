@@ -1,5 +1,5 @@
 # Cr7pt4
-Crypta is a simple python project for encrypt or decrypt files. We use the pyAesCrypt's module which use the AES-256 encryption.
+Crypta is a simple french python project for encrypt or decrypt files. We use the pyAesCrypt's module which use the AES-256 encryption.
 
 # Requirements
 - Python3
