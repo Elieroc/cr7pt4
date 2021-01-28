@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+
+# A python File crypter
+# Developed by Elieroc
+# Start of project : 19/10/2020
+# Actual version : 1.0
+
 import pyAesCrypt
 
 def encrypt(file, password, bufferSize):
